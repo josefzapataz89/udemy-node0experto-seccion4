@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/josefzapataz89/udemy-node0experto-seccion4/issues"
   },
-  "homepage": "https://github.com/josefzapataz89/udemy-node0experto-seccion4#readme"
+  "homepage": "https://github.com/josefzapataz89/udemy-node0experto-seccion4#readme",
+  "dependencies": {
+    "yargs": "^14.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.1"
+  }
 }
