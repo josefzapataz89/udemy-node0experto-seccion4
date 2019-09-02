@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/josefzapataz89/udemy-node0experto-seccion4#readme",
   "dependencies": {
+    "colors": "^1.3.3",
     "yargs": "^14.0.0"
   },
   "devDependencies": {
